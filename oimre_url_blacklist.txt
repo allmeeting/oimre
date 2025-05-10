@@ -12,3 +12,4 @@ director-cu-papua-our.trycloudflare.com
 ucv83uhaoj.13835f21bccb0c50d8e5401c.workers.dev
 workers.dev
 api.elasticamail.com
+v0s6eeiy33.alt-bq-4o27qr9a.workers.dev
