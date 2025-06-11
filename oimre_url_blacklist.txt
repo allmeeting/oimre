@@ -1,4 +1,6 @@
 # oimr 11/06/25 w
+url.ihavetech.com
+witty.btxkorea.com
 ihavetech.com
 btxkorea.com
 securityprompt.icu
