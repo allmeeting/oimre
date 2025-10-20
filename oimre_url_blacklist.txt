@@ -1,5 +1,5 @@
 # oimr 20/10/25 o
-gokuruvu-memupe.s3.us-west-2.amazonaws.com
+s3.us-west-2.amazonaws.com
 stopsoriasis.co.il
 baways.com
 climbwest.com.au
