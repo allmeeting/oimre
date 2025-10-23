@@ -1,4 +1,5 @@
-# oimr 20/10/25 o
+# oimr 23/10/25 o
+auth.bitsstak.com
 s3.us-west-2.amazonaws.com
 stopsoriasis.co.il
 baways.com
