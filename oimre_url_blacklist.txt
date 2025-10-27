@@ -1,4 +1,5 @@
 # oimr 27/10/25 h
+confirm.mail.daum.net
 mail.daum.net
 daum.net
 t1.daumcdn.net
