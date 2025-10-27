@@ -1,4 +1,8 @@
-# oimr 23/10/25 o
+# oimr 27/10/25 h
+mail.daum.net
+daum.net
+t1.daumcdn.net
+daumcdn.net
 auth.bitsstak.com
 s3.us-west-2.amazonaws.com
 stopsoriasis.co.il
