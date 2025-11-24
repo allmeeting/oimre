@@ -1,4 +1,6 @@
 # oimr 21/11/25 h
+s3.us-east-1.amazonaws.com
+email.sequentials.digital
 online.passp0rt.click
 captchadetect.digital
 jacarandas.monedra.com
