@@ -1,4 +1,5 @@
-# oimr 24/11/25 o
+# oimr 09/12/25 o
+ovhcloud.authonsuccess.com
 s3.us-east-1.amazonaws.com
 email.sequentials.digital
 online.passp0rt.click
