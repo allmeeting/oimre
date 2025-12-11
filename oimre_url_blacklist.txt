@@ -1,4 +1,5 @@
-# oimr 09/12/25 o
+# oimr 11/12/25 o
+aruba-ufficiofatture.info
 ovhcloud.authonsuccess.com
 s3.us-east-1.amazonaws.com
 email.sequentials.digital
