@@ -1,7 +1,6 @@
 # oimr 24/12/25 O
 wps.com
 it.wps.com
-softonic.com
 aruba-ufficiofatture.info
 ovhcloud.authonsuccess.com
 s3.us-east-1.amazonaws.com
