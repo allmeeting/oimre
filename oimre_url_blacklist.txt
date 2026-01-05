@@ -1,4 +1,6 @@
-# oimr 01/01/26 h
+# oimr 05/01/26 h
+authfactures.com
+email.notify.parcelpanel.com
 de.apuestastenis.es
 sh-cp1.lax2.servername.online
 wps.com
