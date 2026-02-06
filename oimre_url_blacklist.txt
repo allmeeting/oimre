@@ -1,4 +1,5 @@
 # oimr 06/02/26 o
+wiresguard.com
 api.wiresguard.com
 area-clienti-aruba.auth-login-dashboard.com
 ipv64.net
