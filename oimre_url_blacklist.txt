@@ -1,4 +1,5 @@
-# oimr 20/01/26 o
+# oimr 06/02/26 o
+api.wiresguard.com
 area-clienti-aruba.auth-login-dashboard.com
 ipv64.net
 summ-up-check.ipv64.net
