@@ -1,4 +1,5 @@
 # oimr 10/03/26 h
+is.gd
 digitaloceanspaces.com
 sysfix-qqq-0955o.sfo3.digitaloceanspaces.com
 mailstorage-rrr-567789.sfo3.digitaloceanspaces.com
