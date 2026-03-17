@@ -1,4 +1,5 @@
 # oimr 17/03/26 h
+storage.googleapis.com
 netlify.app
 69b93a177574a0159f27d713--stirring-kashata-e47ee4.netlify.app
 register.xshield.com
