@@ -1,4 +1,6 @@
-# oimr 30/03/26 o
+# oimr 31/03/26 o
+appurl.io
+sutergy.com
 cttseg.com
 eniolapodergreenconsulting-rbg23.appwrite.network
 storage.googleapis.com
