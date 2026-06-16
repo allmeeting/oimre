@@ -1,4 +1,7 @@
-# oimr 12/06/26 o
+# oimr 16/06/26 o
+regul.rw
+workers.dev
+pt-lures-73176f8b.p-2f98e49d.workers.dev
 146.205.178.68.host.secureserver.net
 sueua.com
 economical-oyster-a7e177.instawp.xyz
