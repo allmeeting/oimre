@@ -1,4 +1,6 @@
-# oimr 14/09/26 o
+# oimr 22/09/26 h
+#domini.comunicazionistaff.info
+comunicazionistaff.info
 ct.sendgrid.net
 hardgaz.pl
 regalsozius.de
