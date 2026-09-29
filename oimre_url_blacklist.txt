@@ -1,4 +1,6 @@
-# oimr 28/09/26 h
+# oimr 29/09/26 h
+#fojisemu.cyon.site
+cyon.site
 canarytokens.com
 go.lumibricks.com
 #domini.comunicazionistaff.info
