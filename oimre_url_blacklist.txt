@@ -1,4 +1,5 @@
-# oimr 21/11/26 h
+# oimr 24/11/26 h
+analytics.oneam.cloud
 download.us-east-1.fromsmash.co
 fromsmash.co
 netlify.app
