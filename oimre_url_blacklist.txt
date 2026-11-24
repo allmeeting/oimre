@@ -1,8 +1,4 @@
 # oimr 24/11/26 o
-file.pdfizersoft.com
-analytics.oneam.cloud
-download.us-east-1.fromsmash.co
-fromsmash.co
 netlify.app
 69b93a177574a0159f27d713--stirring-kashata-e47ee4.netlify.app
 pitonesferrite.com.ar
@@ -14,7 +10,9 @@ alfadi.cl
 it360.cl
 online.passp0rt.click
 updatenow.click
+analytics.oneam.cloud
 fromsmash.co  # download.us-east-1.fromsmash.co
+download.us-east-1.fromsmash.co
 allprofessionalmovers.com
 alpamorlogistica.com
 cadiiik-136468712784-eu-central-1-an.s3.eu-central-1.amazonaws.com
@@ -67,6 +65,7 @@ espoitpocamesosteam7d9f7.myclickfunnels.com
 web.opendrive.com
 obh.ovnhe.com
 email.notify.parcelpanel.com
+file.pdfizersoft.com
 hosted.phplist.com
 oxet1999.hosted.phplist.com
 portalserviceweb.com  # hypeservices.portalserviceweb.com
